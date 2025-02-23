@@ -15,5 +15,3 @@ Hello lazygiy:
 yes Learn again.
 
 Commit with Multiple changes.
-
-Hello RkJ.
