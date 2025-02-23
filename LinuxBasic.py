@@ -10,6 +10,5 @@ if x >2:
 else:
     print("NOpe");
 
-
 print("Hello Lazygit!")
 
