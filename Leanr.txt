@@ -15,3 +15,5 @@ Hello lazygiy:
 yes Learn again.
 
 Commit with Multiple changes.
+
+nvim config setup transparents.
