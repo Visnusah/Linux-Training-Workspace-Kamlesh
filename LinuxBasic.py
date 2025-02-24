@@ -6,9 +6,9 @@ x = 2;
 y = 3;
 
 if x >2:
-    print('Hi');
+    print('Hi')
 else:
-    print("NOpe");
+    print("NOpe")
 
 print("Hello Lazygit!")
 
