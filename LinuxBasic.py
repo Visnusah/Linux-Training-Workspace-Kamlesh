@@ -11,4 +11,3 @@ else:
     print("NOpe")
 
 print("Hello Lazygit!")
-
